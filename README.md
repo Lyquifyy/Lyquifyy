@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Lyquifyy
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on learning new code
 - 📫 How to reach me ... zandererwin2023@gmail.com
 
